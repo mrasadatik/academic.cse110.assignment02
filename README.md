@@ -10,7 +10,7 @@ The objective of this assignment is to enhance problem-solving skills related to
 
 - **✅ 1. Palindrome Integer ([Palindrome.java](/app/src/main/java/academic/cse110/assignment02/tasks/T01_Palindrome.java))**
 - **✅ 2. Display Matrix of 0s and 1s ([Matrix.java](/app/src/main/java/academic/cse110/assignment02/tasks/T02_Matrix.java))**
-- **🚧 3. Check Password ([Password.java](Password.java))**
+- **✅ 3. Check Password ([Password.java](/app/src/main/java/academic/cse110/assignment02/tasks/T03_Password.java))**
 - **🚧 4. Count the Letters in a String ([CountLetters.java](CountLetters.java))**
 - **🚧 5. Occurrences of a Specified Character ([CountChar.java](CountChar.java))**
 - **🚧 6. Stock Class ([Stock.java](Stock.java))**
