@@ -32,7 +32,11 @@ This approach enhances the user experience and simplifies the interaction with t
 
 **Complete Code Documentation:**
 
-A **PDF file** containing the **complete and formatted code** for all implemented functionalities is available within this repository. You can access this [file here](Assignment02.pdf).
+For the complete and formatted code of all implemented functionalities, please refer to the **"[assignments02-solutions](app/src/main/resources/assignment02-solutions.pdf)"** PDF.
+
+**Accessible Problems:**
+
+Detailed descriptions of the problems are available in the **"[assignment02-problems](app/src/main/resources/assignment02-problems.pdf)"** PDF.
 
 ### Author
 
