@@ -24,7 +24,7 @@ public class App {
                 System.out.println();
                 System.out.println("Choose a task by entering the corresponding number:");
                 System.out.println("\t1. Palindrome Integer");
-                // System.out.println("\t2. Display Matrix of 0s and 1s");
+                System.out.println("\t2. Display Matrix of 0s and 1s");
                 // System.out.println("\t3. Check Password");
                 // System.out.println("\t4. Count the Letters in a String");
                 // System.out.println("\t5. Occurrences of a Specified Character");
@@ -45,6 +45,7 @@ public class App {
                 
                 switch(taskChoice) {
                     case 1 -> T01_Palindrome.runPalindrome(cliInput);
+                    case 2 -> T02_Matrix.printRandomNMatrix(cliInput);
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;
