@@ -31,7 +31,7 @@ public class App {
                 System.out.println("\t6. Stock Class");
                 System.out.println("\t7. Use the GregorianCalendar Class");
                 System.out.println("\t8. Stopwatch");
-                // System.out.println("\t9. Algebra: 2 * 2 Linear Equations");
+                System.out.println("\t9. Algebra: 2 * 2 Linear Equations");
                 // System.out.println("\t10. The Location Class");
                 
                 System.out.println();
@@ -52,6 +52,7 @@ public class App {
                     case 6 -> T06_Stock.displayStockDetails();
                     case 7 -> T07_CalendarTest.displayDate();
                     case 8 -> T08_StopWatch.getExecutionTime();
+                    case 9 -> T09_LinearEquation.runLinearEquationCalculator(cliInput);
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;
