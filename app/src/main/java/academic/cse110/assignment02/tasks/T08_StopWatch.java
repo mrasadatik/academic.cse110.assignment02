@@ -1,6 +1,6 @@
 /*
 
-UML (Unified Modeling Language) Diagram of this program:
+UML (Unified Modeling Language) Diagram for this program:
 +-------------------------------------+
 |              StopWatch              |
 +-------------------------------------+

@@ -1,9 +1,48 @@
+/*
+
+UML (Unified Modeling Language) Diagram for this program:
++---------------------------------------------------+
+|                  LinearEquation                   |
++---------------------------------------------------+
+| - a: double                                       |
+| - b: double                                       |
+| - c: double                                       |
+| - d: double                                       |
+| - e: double                                       |
+| - f: double                                       |
++---------------------------------------------------+
+| + LinearEquation(a: double,                       |
+|                   b: double,                      |
+|                   c: double,                      |
+|                   d: double,                      |
+|                   e: double,                      |
+|                   f: double)                      |
+| + getA(): double                                  |
+| + getB(): double                                  |
+| + getC(): double                                  |
+| + getD(): double                                  |
+| + getE(): double                                  |
+| + getF(): double                                  |
+| + isSolvable(): boolean                           |
+| + getX(): double                                  |
+| + getY(): double                                  |
++---------------------------------------------------+
+
++---------------------------------------------------+
+|                T09_LinearEquation                 |
++---------------------------------------------------+
+| + runLinearEquationCalculator(scanner: Scanner)   |
++---------------------------------------------------+
+
+*/
+
 package academic.cse110.assignment02.tasks;
 
 import java.util.Scanner;
 
 class LinearEquation {
 
+    @SuppressWarnings("FieldMayBeFinal")
     private double a, b, c, d, e, f;
 
     public LinearEquation(double a, double b, double c, double d, double e, double f) {
