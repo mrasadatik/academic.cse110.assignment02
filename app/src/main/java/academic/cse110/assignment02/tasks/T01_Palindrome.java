@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author mrasadatik
  */
 public class T01_Palindrome {
-    private static int reverse(int number) {
+    public static int reverse(int number) {
         int reversed = 0;
         while (number != 0) {
             int digit = number % 10;
@@ -17,7 +17,7 @@ public class T01_Palindrome {
         return reversed;
     }
 
-    private static boolean isPalindrome(int number) {
+    public static boolean isPalindrome(int number) {
         return number == reverse(number);
     }
 

@@ -8,16 +8,16 @@ The objective of this assignment is to enhance problem-solving skills related to
 
 **Tasks:**
 
-- **✅ 1. Palindrome Integer ([Palindrome.java](/app/src/main/java/academic/cse110/assignment02/tasks/T01_Palindrome.java))**
-- **✅ 2. Display Matrix of 0s and 1s ([Matrix.java](/app/src/main/java/academic/cse110/assignment02/tasks/T02_Matrix.java))**
-- **✅ 3. Check Password ([Password.java](/app/src/main/java/academic/cse110/assignment02/tasks/T03_Password.java))**
-- **🚧 4. Count the Letters in a String ([CountLetters.java](CountLetters.java))**
-- **🚧 5. Occurrences of a Specified Character ([CountChar.java](CountChar.java))**
-- **🚧 6. Stock Class ([Stock.java](Stock.java))**
-- **🚧 7. Use the GregorianCalendar Class ([CalendarTest.java](CalendarTest.java))**
-- **🚧 8. Stopwatch ([StopWatch.java](StopWatch.java))**
-- **🚧 9. Algebra: 2 * 2 Linear Equations ([LinearEquation.java](LinearEquation.java))**
-- **🚧 10. The Location Class ([Location.java](Location.java))**
+- **✅ 1. Palindrome Integer ([T01_Palindrome.java](/app/src/main/java/academic/cse110/assignment02/tasks/T01_Palindrome.java))**
+- **✅ 2. Display Matrix of 0s and 1s ([T02_Matrix.java](/app/src/main/java/academic/cse110/assignment02/tasks/T02_Matrix.java))**
+- **✅ 3. Check Password ([T03_Password.java](/app/src/main/java/academic/cse110/assignment02/tasks/T03_Password.java))**
+- **✅ 4. Count the Letters in a String ([T04_CountLetters.java](/app/src/main/java/academic/cse110/assignment02/tasks/T04_CountLetters.java))**
+- **🚧 5. Occurrences of a Specified Character ([T05_CountChar.java](/app/src/main/java/academic/cse110/assignment02/tasks/T05_CountChar.java))**
+- **🚧 6. Stock Class ([T06_Stock.java](/app/src/main/java/academic/cse110/assignment02/tasks/T06_Stock.java))**
+- **🚧 7. Use the GregorianCalendar Class ([T07_CalendarTest.java](/app/src/main/java/academic/cse110/assignment02/tasks/T07_CalendarTest.java))**
+- **🚧 8. Stopwatch ([T08_StopWatch.java](/app/src/main/java/academic/cse110/assignment02/tasks/T08_StopWatch.java))**
+- **🚧 9. Algebra: 2 * 2 Linear Equations ([T09_LinearEquation.java](/app/src/main/java/academic/cse110/assignment02/tasks/T09_LinearEquation.java))**
+- **🚧 10. The Location Class ([T10_Location.java](/app/src/main/java/academic/cse110/assignment02/tasks/T10_Location.java))**
 
 **Menu-Driven Approach:**
 
