@@ -17,7 +17,7 @@ The objective of this assignment is to enhance problem-solving skills related to
 - **✅ 7. Use the GregorianCalendar Class ([T07_CalendarTest.java](/app/src/main/java/academic/cse110/assignment02/tasks/T07_CalendarTest.java))**
 - **✅ 8. Stopwatch ([T08_StopWatch.java](/app/src/main/java/academic/cse110/assignment02/tasks/T08_StopWatch.java))**
 - **✅ 9. Algebra: 2 * 2 Linear Equations ([T09_LinearEquation.java](/app/src/main/java/academic/cse110/assignment02/tasks/T09_LinearEquation.java))**
-- **🚧 10. The Location Class ([T10_Location.java](/app/src/main/java/academic/cse110/assignment02/tasks/T10_Location.java))**
+- **✅ 10. The Location Class ([T10_Location.java](/app/src/main/java/academic/cse110/assignment02/tasks/T10_Location.java))**
 
 **Menu-Driven Approach:**
 
