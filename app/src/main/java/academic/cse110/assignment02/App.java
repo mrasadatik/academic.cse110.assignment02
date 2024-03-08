@@ -27,7 +27,7 @@ public class App {
                 System.out.println("\t2. Display Matrix of 0s and 1s");
                 System.out.println("\t3. Check Password");
                 System.out.println("\t4. Count the Letters in a String");
-                // System.out.println("\t5. Occurrences of a Specified Character");
+                System.out.println("\t5. Occurrences of a Specified Character");
                 // System.out.println("\t6. Stock Class");
                 // System.out.println("\t7. Use the GregorianCalendar Class");
                 // System.out.println("\t8. Stopwatch");
@@ -48,6 +48,7 @@ public class App {
                     case 2 -> T02_Matrix.runPrintMatrix(cliInput);
                     case 3 -> T03_Password.passwordValidator(cliInput);
                     case 4 -> T04_CountLetters.runCountLetters(cliInput);
+                    case 5 -> T05_CountChar.runCountOccurrence(cliInput);
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;
