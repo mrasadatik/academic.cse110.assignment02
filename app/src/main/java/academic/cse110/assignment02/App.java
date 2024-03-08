@@ -29,7 +29,7 @@ public class App {
                 System.out.println("\t4. Count the Letters in a String");
                 System.out.println("\t5. Occurrences of a Specified Character");
                 System.out.println("\t6. Stock Class");
-                // System.out.println("\t7. Use the GregorianCalendar Class");
+                System.out.println("\t7. Use the GregorianCalendar Class");
                 // System.out.println("\t8. Stopwatch");
                 // System.out.println("\t9. Algebra: 2 * 2 Linear Equations");
                 // System.out.println("\t10. The Location Class");
@@ -50,6 +50,7 @@ public class App {
                     case 4 -> T04_CountLetters.runCountLetters(cliInput);
                     case 5 -> T05_CountChar.runCountOccurrence(cliInput);
                     case 6 -> T06_Stock.displayStockDetails();
+                    case 7 -> T07_CalendarTest.displayDate();
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;
