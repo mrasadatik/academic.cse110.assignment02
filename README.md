@@ -21,7 +21,7 @@ The objective of this assignment is to enhance problem-solving skills related to
 
 **Menu-Driven Approach:**
 
-This project utilizes a menu-driven approach for user interaction and task execution. The [`Main`](/app/src/main/java/academic/cse110/assignment02/App.java) **class** serves as the **entry point** of the program and implements the following functionalities:
+This project utilizes a menu-driven approach for user interaction and task execution. The **[`App` class's](/app/src/main/java/academic/cse110/assignment02/App.java#L6) [`main` method](/app/src/main/java/academic/cse110/assignment02/App.java#L7)** serves as the **entry point** of the program and implements the following functionalities:
 
 1. **Display a menu** listing all available tasks.
 2. **Allow users to select a task** by entering the corresponding number.
