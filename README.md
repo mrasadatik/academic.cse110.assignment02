@@ -6,7 +6,7 @@ This repository contains the Java code for all the tasks included in **Assignmen
 
 The objective of this assignment is to enhance problem-solving skills related to object-oriented programming concepts. The tasks involve creating methods, method overloading, class and object creation, constructor usage, access modifiers, instance and static methods, and more.
 
-**Tasks**
+**Tasks Checklist**
 
 - **✅ 1. Palindrome Integer ([T01_Palindrome.java](/app/src/main/java/academic/cse110/assignment02/tasks/T01_Palindrome.java))**
 - **✅ 2. Display Matrix of 0s and 1s ([T02_Matrix.java](/app/src/main/java/academic/cse110/assignment02/tasks/T02_Matrix.java))**
