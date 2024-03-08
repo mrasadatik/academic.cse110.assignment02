@@ -1,10 +1,8 @@
-package academic.cse110.assignment02.tasks;
-
 /*
 
 UML (Unified Modeling Language) Diagram of this program:
 +----------------------------------------+
-|                Stock                   |
+|                 Stock                  |
 +----------------------------------------+
 | - symbol: String                       |
 | - name: String                         |
@@ -22,12 +20,14 @@ UML (Unified Modeling Language) Diagram of this program:
 +----------------------------------------+
 
 +----------------------------------------+
-|             T06_Stock                  |
+|               T06_Stock                |
 +----------------------------------------+
 | + runStockDetails()                    |
 +----------------------------------------+
 
 */
+
+package academic.cse110.assignment02.tasks;
 
 class Stock {
     @SuppressWarnings("FieldMayBeFinal")
